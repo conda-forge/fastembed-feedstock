@@ -1,5 +1,5 @@
 context:
-  version: "0.7.1"
+  version: "0.7.2"
   python_min: "3.10"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/f/fastembed/fastembed-${{ version }}.tar.gz
-    sha256: cb45be91779ba1dcbe4dbdbdcfb3e2cffb8ec546f8f4317e33fe3014113ee64c
+    sha256: 77c3bae9ec01779824597d7c12e3dd02f7e4c81363f4e03206a0654c732ce2a2
 
 build:
   number: 0
